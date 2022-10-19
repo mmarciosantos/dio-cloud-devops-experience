@@ -11,5 +11,5 @@ Dar permissão de execução para os scripts:
 
 Executar os scripts como usuários root:
 
-	sudo ./criar_usuarios.sh
+	sudo ./cria_usuarios.sh
 	sudo ./remove_usuarios.sh
