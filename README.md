@@ -3,7 +3,8 @@ Respositório referente ao bootcamp: Cloud DevOps Experience - Banco Carrefour
 
 ### Observações importantes:
 Deve-se executar os scripts da seguinte maneira:
-	<p>- Dar permissão de execução para os scripts
+
+	<p>- Dar permissão de execução para os scripts:
 		chmod +x cria_usuarios.sh
 		chmod +x remove_usuarios.sh</p>
 
