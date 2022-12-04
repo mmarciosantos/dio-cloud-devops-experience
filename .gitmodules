@@ -1,0 +1,3 @@
+[submodule "projetos-kubernets/projetos-kubernets/k8s-projeto1-app-base"]
+	path = projetos-kubernets/projetos-kubernets/k8s-projeto1-app-base
+	url = https://github.com/denilsonbonatti/k8s-projeto1-app-base.git
