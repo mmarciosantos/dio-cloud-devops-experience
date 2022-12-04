@@ -4,7 +4,7 @@
 
 Para rodar todo o sistema em um Linux OS basta entrar no diretório k8s-projeto1-app-base da seguinte maneira:
 
-	cd k8s-projeto1-app-base
+	cd projetos-kubernets
 
 Depois basta rodas o script.sh da seguinte maneira:
 	
